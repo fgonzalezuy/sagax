@@ -16,7 +16,7 @@ Maven version 3.5.0
 4.On the same terminal run the next command: “mvn spring-boot:run”, maven will lunch a tomcat server. Important: If you have some other server running, try to stop it, could have some issues with the normal configuration of the tomcat.
 
 
-								How to use it(with postman app)
+								How to use it
 
 The application is running on the url “http://localhost:8080/stairwell” and it needs 2 parameters to run, and both are mandatory, and only allows GET requests. 
 
